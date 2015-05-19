@@ -1,0 +1,4 @@
+
+grant codeBase "file:/C:/#PROJECT_DIRECTORY#/target/classes/server/"{
+  permission java.security.AllPermission;
+};
